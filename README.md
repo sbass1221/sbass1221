@@ -5,10 +5,11 @@ My name is Sally, and I am currently a master's student at [Western Washington U
 -->
 
 ### About me:
-- 🌺 My pronouns are She/Her/They/Them.
+- 🥀 My pronouns are She/Her/They/Them.
 - 📜 My undergraduate major was Computer Science with a Linguistics minor [Western Washington University](https://wwu.edu "Westerns Website").
 - 💼 You can usually find me working in the [HutchResearch](https://fw.cs.wwu.edu/~hutchib2/hutchresearch.html "HutchResearch Site") lab or from home with my cat, Fork.
-- 💻 I’m currently learning how to effectively write bash scripts!
+- 🍃 I love houseplants and have quite the collection growing.
+- 💻 I’m currently TA-ing an entry level systems course taught in C.
 
 ### Programming languages & Deep Learning Frameworks:
 <div align="center">
