@@ -1,8 +1,7 @@
 ## <div align="center"> Hi there 👋 </div>
 
-<!--
 My name is Sally, and I am currently a master's student at [Western Washington University](https://wwu.edu "Westerns Website"), studying [Computer Science](https://cs.wwu.edu "Westerns CS Department Site") and working as a Graduate Teaching Assistant. I also work as a research assistant at [HutchResearch](https://fw.cs.wwu.edu/~hutchib2/hutchresearch.html "HutchResearch Site"). 
--->
+
 
 ### About me:
 - 🥀 My pronouns are She/Her/They/Them.
