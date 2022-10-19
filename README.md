@@ -19,7 +19,7 @@ My name is Sally, and I am currently a master's student at [Western Washington U
 
 <!--
 <div id="contact">
-  <a href="https://www.linkedin.com/in/sarah-coffland">
+  <a href="https://www.linkedin.com/in/sally-bass/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -28,11 +28,11 @@ My name is Sally, and I am currently a master's student at [Western Washington U
     
 <p align="center">
   <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sarah-coffland/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sally-bass/">
 			<img src="https://raw.githubusercontent.com/SarahCoffland/SarahCoffland/b0c950ecc982d628757e93f8f787df7c1747ea2f/icons8-linkedin.svg" width="80" height="80"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/SarahCoffland">
 		<img src="https://raw.githubusercontent.com/SarahCoffland/SarahCoffland/69cb7c0a1228d2b5a38427ab5a1c537a5be87e96/icons8-github-squared.svg" width="80" height="80"></a>
-		<a style="margin-left: 10px;" target="_blank" href="mailto:cofflas@wwu.edu">
+		<a style="margin-left: 10px;" target="_blank" href="mailto:sa.bass1221@gmail.com">
 				<img src="https://img.icons8.com/plasticine/452/apple-mail.png" width="80" height="80"></a>
       </div>
 
