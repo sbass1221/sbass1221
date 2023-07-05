@@ -5,7 +5,7 @@ My name is Sally, and I am a Cyber Range Research Associate at [Western Washingt
 
 ### About me:
 - 🥀 My pronouns are She/Her/They/Them.
-- 📜 My undergraduate major was Computer Science with a Linguistics minor [Western Washington University](https://wwu.edu "Westerns Website").
+- 📜 I have a Bachelors degree in Computer Science with a Linguistics minor and a Masters degree in Computer Science, both from [Western Washington University](https://wwu.edu "Westerns Website").
 - 💼 You can usually find me working in the [Cyber Range](https://cs.wwu.edu/cybersecurity/cyber_range_about) lab or from home with my cats, Fork and Sho.
 
 ### Programming languages & Deep Learning Frameworks:
