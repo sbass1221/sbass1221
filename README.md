@@ -1,14 +1,12 @@
 ## <div align="center"> Hi there 👋 </div>
 
-My name is Sally, and I am currently a master's student at [Western Washington University](https://wwu.edu "Westerns Website"), studying [Computer Science](https://cs.wwu.edu "Westerns CS Department Site") and working as a Graduate Teaching Assistant. I also work as a research assistant at [HutchResearch](https://fw.cs.wwu.edu/~hutchib2/hutchresearch.html "HutchResearch Site"). 
+My name is Sally, and I am a Cyber Range Research Associate at [Western Washington University](https://wwu.edu "Westerns Website"). I research Cyber Security Education and help bring Cyber Security Education tools to the greater Washington community. In my free time I like to play video games, tend to my (many) houseplants, and read sci-fi & fantasy books. 
 
 
 ### About me:
 - 🥀 My pronouns are She/Her/They/Them.
 - 📜 My undergraduate major was Computer Science with a Linguistics minor [Western Washington University](https://wwu.edu "Westerns Website").
-- 💼 You can usually find me working in the [HutchResearch](https://fw.cs.wwu.edu/~hutchib2/hutchresearch.html "HutchResearch Site") lab or from home with my cat, Fork.
-- 🍃 I love houseplants and have quite the collection growing.
-- 💻 I’m currently TA-ing an entry level systems course taught in C.
+- 💼 You can usually find me working in the [Cyber Range](https://cs.wwu.edu/cybersecurity/cyber_range_about) lab or from home with my cats, Fork and Sho.
 
 ### Programming languages & Deep Learning Frameworks:
 <div align="center">
